@@ -66,12 +66,12 @@ It's F-scores were also worse or on-par with SMOTE Oversampling. The ROS model a
 - Balanced Random Forest Classifier gave us the second-best results, showing marked improvement with an accuracy score of 0.7615. However, this is still far from perfect. This means that it could only accurately predict about 76%, or 3/4ths of the appropriate levels of credit risks.
 
 
-<img width="535" alt="image" src="https://user-images.githubusercontent.com/104597335/188167572-7b0609aa-8f11-4b04-ac36-8617c0bfce00.png">
+<img width="740" alt="image" src="https://user-images.githubusercontent.com/104597335/188167572-7b0609aa-8f11-4b04-ac36-8617c0bfce00.png">
 
 
 It's F-scores were where there was most improvement (relatively). The BRFC model achieved an average F-score of 0.92, which is at least in the 90's. However, it's F-score for high-risk prediction was still low, at only 0.06.
 
-<img width="559" alt="image" src="https://user-images.githubusercontent.com/104597335/188167686-e7b12c3c-2977-40b5-822c-6e0ea977c8b7.png">
+<img width="740" alt="image" src="https://user-images.githubusercontent.com/104597335/188167686-e7b12c3c-2977-40b5-822c-6e0ea977c8b7.png">
 
 
 
